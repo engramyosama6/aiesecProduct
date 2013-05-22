@@ -1,7 +1,7 @@
 <?php
 
 function lc_management_menu() {
-    return array(
+    return array( 
         'admin/config/lcs' => array(
             'title' => 'Manage Lcs',
             'description' => 'Configure Lcs Management.',
